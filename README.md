@@ -7,7 +7,7 @@ Implement a function which takes a string argument and print the letter of the s
 >>> ['P', 'y', 't', 'h', 'o', 'n', 'i', 'c', ' ', 'l', 'e', 't', 't', 'e', 'r', 's']
 ```
 
-Implement this function **as short as possible**!
+Implement this function **as short as possible** and **as many ways as possible**!
 
 ```python
 def print_letters(word):
